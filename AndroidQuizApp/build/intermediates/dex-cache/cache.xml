@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.0_73cac441dd2a9165d3876b988886e07b0e5b2121.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-design-24.2.0_7501c26754c4f9749a895dee200aa01d5442630d.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.0_27c53a8261badef6748219780c8096e2f256aeec.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.0_49970f2de7f06660c7a1b057dff1f33715192acf.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_329792c7809210a2fa979b5005ff16140b40f593.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_842bf6d11cd378860bdf5957f9cf83e326b6e7ce.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.0_57e602fca662664681bfdb0e59e19a1d0935688b.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.0_7de0438dff56d19ea681ba235c96f3e1f1379bbe.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.0_3df4dabf473018493bc1d7b33b9b9b17600b336a.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.0_7d0724d0816e6fad17ba322a77ae077f88c2d2ac.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.0_e66dc00e9f4675aef70bbd19f6fdccda5dc1b22d.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.0_b5a5793f0a8c2b6f22e8bd7a7f2b97b35ac51dcd.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_4b9eb9389be4359c84104a7d1dc178f1cde9e6e1.jar" />
+    </item>
+    <item
+        jar="/home/umesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/support-annotations-24.2.0_79da23ce9027fb3b8dcfe10825fa0ae30d0eda4d.jar" />
+    </item>
+    <item
+        jar="/home/umesh/Android/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/gson-2.2.4_01dc1f19da7d4c45c924e0ea066e00bfd234cad1.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_17a8e09a6d76ba80c4777e8c799efd6b73f4549e.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.0_00066237dbc36784063f39b746c7873c572f2e5a.jar" />
+    </item>
+    <item
+        jar="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/umesh/AndroidStudioProjects/ArbanClapAssignment/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0_117fa00c1ceb40df2819c0486f1ba493b2cac731.jar" />
+    </item>
+
+</items>

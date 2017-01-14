@@ -1,0 +1,100 @@
+{
+  "questions":[
+    {
+      "id":1,
+      "question":"Where is the capital of India?",
+      "question_type":0,
+      "options":[]
+    },
+    {
+      "id":2,
+      "question":"What genre of songs do you want in the playlist?",
+      "question_type":1,
+      "options":[
+
+        {
+          "option_id":2,
+          "title":"Panjabi",
+          "next_q_id":0
+        },
+        {
+          "option_id":3,
+          "title":"HipHop",
+          "next_q_id":4
+        },
+        {
+          "option_id":1,
+          "title":"Bollywood",
+          "next_q_id":3
+        },
+        {
+          "option_id":4,
+          "title":"Regional",
+          "next_q_id":0
+        }
+      ]
+    },
+    {
+      "id":3,
+      "question":"What era should songs belong to?",
+      "question_type":1,
+      "options":[
+        {
+          "option_id":1,
+          "title":"1990",
+          "next_q_id":0
+        },
+        {
+          "option_id":2,
+          "title":"1980",
+          "next_q_id":0
+        },
+        {
+          "option_id":3,
+          "title":"1970",
+          "next_q_id":0
+        },
+        {
+          "option_id":4,
+          "title":"2000+",
+          "next_q_id":0
+        }
+      ]
+    },
+    {
+      "id":4,
+      "question":"What era should songs belong to?",
+      "question_type":2,
+      "options":[
+        {
+          "option_id":1,
+          "title":"Dance Beats",
+          "next_q_id":0
+        },
+        {
+          "option_id":2,
+          "title":"Suitable for Karaoke",
+          "next_q_id":0
+        },
+        {
+          "option_id":3,
+          "title":"I have no preference",
+          "next_q_id":0
+        },
+        {
+          "option_id":4,
+          "title":"I have preference",
+          "next_q_id":0
+        }
+      ]
+    },
+    {
+      "id":5,
+      "question":"Where is the capital of UP?",
+      "question_type":0,
+      "options":[]
+    }
+
+
+  ]
+}

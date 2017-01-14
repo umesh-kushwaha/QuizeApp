@@ -1,0 +1,6 @@
+My Assumptions:
+
+1. Multi-selection question and single selection question must have four options.
+2. This application works with three type of question - Single selection option, multi-selection option, text input.
+3. Question type value will be 0 or 1 or 2. 0 for input type question, 1 for multi-selection, 2 for single selection.
+4. "next_q_id" attribute of option object defines what will be the next question.
